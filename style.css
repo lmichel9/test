@@ -42,6 +42,7 @@ body
 section h1, footer h1, nav a
 {
     font-family: Dayrom, serif;
+    color: red;
     font-weight: normal;
     text-transform: uppercase;
 }
@@ -107,7 +108,7 @@ nav li
 nav a
 {
     font-size: 1.3em;
-    color: #181818;
+    color: blue;
     padding-bottom: 3px;
     text-decoration: none;
 }
